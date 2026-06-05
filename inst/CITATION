@@ -1,0 +1,11 @@
+bibentry(
+  bibtype = "Manual",
+  title = "RB: R package for modeling unit data with the Redistributed-Beta distribution",
+  author = personList(
+    person(given = "Yuri A.", family = "Iriarte"),
+    person(given = "Juan M.", family = "Astorga")
+  ),
+  year = "2026",
+  note = "R package version 1.0.0",
+  url = "https://github.com/Yuririarte/redistributed-beta"
+)

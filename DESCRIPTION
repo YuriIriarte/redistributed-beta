@@ -1,0 +1,31 @@
+Package: RB
+Type: Package
+Title: Redistributed-Beta Distribution for Unit Data
+Version: 1.0.0
+Authors@R: c(
+    person(
+        given = "Yuri A.",
+        family = "Iriarte",
+        role = c("aut", "cre"),
+        email = "yuri.iriarte@uantof.cl"
+    ),
+    person(
+        given = "Juan M.",
+        family = "Astorga",
+        role = "aut"
+    )
+    )
+Description: Provides functions for the Redistributed-Beta (RB) distribution,
+    including density, distribution function, random generation, raw moments,
+    descriptive measures, parameter estimation by moments and maximum
+    likelihood, model comparison, and bootstrap goodness-of-fit procedures for
+    data supported on the unit interval.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+    stats
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

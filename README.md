@@ -26,7 +26,7 @@ You can install the stable version used in the paper directly from GitHub:
 
 ```r
 install.packages("remotes")
-remotes::install_github("Yuririarte/redistributed-beta")
+remotes::install_github("YuriIriarte/redistributed-beta")
 ```
 
 ## Basic usage

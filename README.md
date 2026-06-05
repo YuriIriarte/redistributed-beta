@@ -1,7 +1,6 @@
 # RB: An R package for modeling unit data using the Redistributed-Beta distribution
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20550857.svg)](https://doi.org/10.5281/zenodo.20550857)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 R package for modeling data on the unit interval $(0,1)$ using the Redistributed-Beta (RB) distribution.
 
